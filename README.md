@@ -1,2 +1,2 @@
 # JavaCapStone
- java basic course capstone project
+ java basic course capstone project account repository
